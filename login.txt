@@ -1,0 +1,6 @@
+Name     : Rory Sheirdan
+Type     : Forex Hedged USD
+Server   : MetaQuotes-Demo
+Login    : 59129871
+Password : w8kshenw
+Investor : rw7gekto
